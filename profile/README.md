@@ -1,9 +1,9 @@
-# SportConnect — sportconnect.app
+# SportConnect — sportix.vn
 
 SportConnect là nền tảng dành cho cộng đồng **cầu lông** và **pickleball** tại Việt Nam: tìm bạn chơi, tham gia sự kiện/giải đấu, theo dõi trình độ và kết nối với sân/CLB/HLV — tất cả trong một hệ sinh thái.
 
-Website: https://sportconnect.app
-Liên hệ: https://sportconnect.app/lien-he hoặc contact@sportconnect.app
+Website: https://sportix.vn
+Liên hệ: https://sportix.vn/lien-he hoặc contact@sportix.vn
 
 ## Tổ chức giải đấu dễ dàng
 

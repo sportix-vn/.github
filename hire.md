@@ -81,7 +81,7 @@ Mục tiêu: xây trải nghiệm mobile mượt, ưu tiên luồng chính của
 
 ## Cách ứng tuyển
 
-Gửi email về **contact@sportconnect.app** với:
+Gửi email về **contact@sportix.vn** với:
 
 - Bạn muốn cộng tác vị trí nào (FE / Marketing / Mobile)
 - Link portfolio/GitHub/LinkedIn (nếu có)
