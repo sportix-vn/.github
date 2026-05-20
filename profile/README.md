@@ -1,13 +1,13 @@
-# SportConnect — sportix.vn
+# Sportix — sportix.vn
 
-SportConnect là nền tảng dành cho cộng đồng **cầu lông** và **pickleball** tại Việt Nam: tìm bạn chơi, tham gia sự kiện/giải đấu, theo dõi trình độ và kết nối với sân/CLB/HLV — tất cả trong một hệ sinh thái.
+Sportix là nền tảng dành cho cộng đồng **cầu lông** và **pickleball** tại Việt Nam: tìm bạn chơi, tham gia sự kiện/giải đấu, theo dõi trình độ và kết nối với sân/CLB/HLV — tất cả trong một hệ sinh thái.
 
 Website: https://sportix.vn
 Liên hệ: https://sportix.vn/lien-he hoặc contact@sportix.vn
 
 ## Tổ chức giải đấu dễ dàng
 
-SportConnect giúp ban tổ chức tạo và vận hành giải đấu nhanh, rõ ràng và chuyên nghiệp:
+Sportix giúp ban tổ chức tạo và vận hành giải đấu nhanh, rõ ràng và chuyên nghiệp:
 - Tạo giải theo nhiều giai đoạn (mở đăng ký → thi đấu → công bố kết quả)
 - Quản lý đăng ký người chơi/đội, kiểm soát điều kiện tham gia
 - Hỗ trợ nhiều thể thức thi đấu (tùy theo mô hình giải)
@@ -22,7 +22,7 @@ Xây dựng hồ sơ người chơi làm “hộ chiếu thể thao”:
 
 ## Hệ thống sân & đặt sân theo giờ
 
-SportConnect hướng tới trải nghiệm “muốn chơi là có sân”:
+Sportix hướng tới trải nghiệm “muốn chơi là có sân”:
 - Dữ liệu sân theo khu vực, hỗ trợ lọc theo bộ môn và tiện ích
 - Trạng thái trống/đã đặt (theo khung giờ) để người chơi chọn nhanh
 - Nền tảng vận hành cho chủ sân/nhân viên: chi nhánh, sân, bảng giá, lịch đặt
